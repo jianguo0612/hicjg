@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608196184153</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add">
+      <created>1608197940172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608197940172</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,10 +160,10 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="604" y="162" key="RollbackChangesDialog/0.0.1536.920@0.0.1536.920" timestamp="1608194408306" />
-    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1608196331924">
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1608197941445">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1608196331924" />
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1608197941445" />
     <state x="93" y="93" width="1350" height="734" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608194479051">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
