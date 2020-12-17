@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfd4c3be-b129-48e7-8455-7e0b5f6ab392" name="Default Changelist" comment="add">
+      <change beforePath="$PROJECT_DIR$/ReadMe" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../common/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\common\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lmCkhtjlCg2jPmtSs8lsNnRWUW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd4c3be-b129-48e7-8455-7e0b5f6ab392" name="Default Changelist" comment="" />
+      <created>1608193023398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608193023398</updated>
+      <workItem from="1608193026577" duration="21000" />
+      <workItem from="1608193056422" duration="3053000" />
+      <workItem from="1608196404623" duration="424000" />
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1608193530088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608193530088</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1608194481912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608194481912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <created>1608196184153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608196184153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="35" key="#Project_Structure" timestamp="1608194242053">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="249" y="35" key="#Project_Structure/0.0.1536.920@0.0.1536.920" timestamp="1608194242053" />
+    <state x="509" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608193042099">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="509" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.920@0.0.1536.920" timestamp="1608193042099" />
+    <state x="93" y="93" width="1350" height="734" key="DiffContextDialog" timestamp="1608195005964">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="93" y="93" width="1350" height="734" key="DiffContextDialog/0.0.1536.920@0.0.1536.920" timestamp="1608195005964" />
+    <state x="995" y="394" key="FileChooserDialogImpl" timestamp="1608193111740">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="995" y="394" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1608193111740" />
+    <state x="0" y="0" key="MergeDialog" timestamp="1608196224641">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="0" y="0" key="MergeDialog/0.0.1536.920@0.0.1536.920" timestamp="1608196224641" />
+    <state x="0" y="0" key="MultipleFileMergeDialog" timestamp="1608196224646">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="0" y="0" key="MultipleFileMergeDialog/0.0.1536.920@0.0.1536.920" timestamp="1608196224646" />
+    <state x="604" y="162" key="RollbackChangesDialog" timestamp="1608194408306">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="604" y="162" key="RollbackChangesDialog/0.0.1536.920@0.0.1536.920" timestamp="1608194408306" />
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1608196331924">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1608196331924" />
+    <state x="93" y="93" width="1350" height="734" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608194479051">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="93" y="93" width="1350" height="734" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.920@0.0.1536.920" timestamp="1608194479051" />
+    <state x="555" y="247" key="git4idea.merge.GitMergeDialog" timestamp="1608194900933">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="555" y="247" key="git4idea.merge.GitMergeDialog/0.0.1536.920@0.0.1536.920" timestamp="1608194900933" />
+  </component>
+</project>
